@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.egg-info/
+dist/
+build/
+
+# Java
+/bin/
+/target/
+*.class
+*.jar
+*.war
+*.log
+
+# JavaScript
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+
+# React
+*.js.map
+*.jsx.map
+
+# Angular
+.angular/
+*.log
+
+# SQL
+*.sql
+
+# HTML/CSS
+*.css.map
+*.scss.map
+
+# PHP
+/vendor/
+*.log
+
+# Shell scripts
+*.sh
+
+# C
+*.o
+*.out
+*.exe
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.iml
+*.swp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# Other common files
+*.bak
+*.tmp
+
+# GitHub
+*.orig
+*.patch
+*.log
+*.diff
