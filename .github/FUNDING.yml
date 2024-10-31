@@ -1,0 +1,24 @@
+# Funding links are diabled on this repo
+
+community_bridge: PROJECT-NAME
+github: [USERNAME, USERNAME, USERNAME, USERNAME]
+issuehunt: USERNAME
+liberapay: USERNAME
+open_collective: USERNAME
+patreon: USERNAME
+tidelift: PLATFORM-NAME/PACKAGE-NAME
+# Tidelift must have both so an example is --> tidelift: npm/mypackage
+polar: USERANME
+buy_me_a_coffee: USERNAME
+thanks_dev: USERNAME
+# The below line is custom links
+custom: [LINK1, LINK2, LINK3, LINK4]
+# Custom links must be wrapped in double quotes
+
+# These are the platforms for Tidelift
+# 1. npm
+# 2. pypi
+# 3. rubygems
+# 4. maven
+# 5. packagist
+# 6. nuget
